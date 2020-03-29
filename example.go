@@ -11,4 +11,10 @@ func main() {
 	}
 
 	fmt.Println("Done!")
+
+	name := "Mittens"
+	weight := 12
+	fmt.Printf("The cat is named %s.", name)
+	fmt.Printf("Its weight is %d.", weight)
+
 }
